@@ -17,7 +17,7 @@ how they are being typically resolved?<br/>
 Can we learn anything from the issues where the company is providing *untimely responses*?
 
 **Complaint tracker** : In 2023, how many complaint are still *in-progress*?<br/>  
-Both the complaint analysis and tracker reports, created in Excel, can be downloaded from the following link:
+Both the complaint analysis and tracker reports, created in Excel, can be downloaded from the following link: [Download the Excel report](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Financial_Consumer_Complaints.xlsx) 
 <br/> 
 <br/> 
 <br/> 
