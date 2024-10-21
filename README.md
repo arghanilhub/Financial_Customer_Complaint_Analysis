@@ -26,4 +26,7 @@ The dataset contains 62,000 complaint records spanning from May 2017 to August 2
 * The dates the complaints was submitted to the CFPB and then sent to the company.<br/> 
 * The product and the issue types mentioned in the complaints.<br/>  
 * The company's responce how they resolved it and<br/>  
-* How many complaits are still in-progress to solve. 
+* How many complaits are still in-progress to solve.<br/>
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Complaint ERD](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/complaint_ERD.png)  
