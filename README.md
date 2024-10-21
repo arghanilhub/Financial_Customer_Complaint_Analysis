@@ -11,10 +11,8 @@ This project throughly analyzes and synthesizes this data in order to uncover cr
 **Answering the following key questions through my analysis in these areas :** <br/> 
 
 **Complaint trend** : Do consumer complaints show any kind of seasonal pattern?<br/> 
-**Product analysis** : For which Product and services, customer's are complaining about most? what are their common issues?<br/> 
-how they are being typically resolved?<br/> 
-**Company Responce** : Is there any trend in the company's responses to the problems arising from the products with the most complaints?<br/> 
-Can we learn anything from the issues where the company is providing *untimely responses*?
+**Product analysis** : For which Product and services, customer's are complaining about most? what are their common issues? and how they are being typically resolved?<br/> 
+**Company Responce** : Is there any trend in the company's responses to the problems arising from the products with the most complaints? Can we learn anything from the issues where the company is providing *untimely responses*? 
 
 **Complaint tracker** : In 2023, how many complaint are still *in-progress*?<br/>  
 Both the complaint analysis and tracker reports, created in Excel, can be downloaded from the following link: [Download the Excel report](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Financial_Consumer_Complaints.xlsx) 
