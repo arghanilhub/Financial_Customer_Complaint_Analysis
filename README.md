@@ -70,7 +70,10 @@ Below is the overview page from my Excel report, which provides insights to answ
 <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![untimely responce](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Untimely_responce.png) 
-
+<br/> 
+**4. Complaint tracker** 
+* Complaints that are **still unresolved** are only found in the last year of this seven-year period (2023). Before that, all complaints have been closed.
+* In 2023 also, only in the last 3 months have open complaints i.e **June, July and August**, where in week 10th june to 7th of aug has most number of open complaints.   
 
 
 
