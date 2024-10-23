@@ -39,4 +39,11 @@ I added **two** additional calculated columns: **Starting Week** and **Open/Clos
 <h4>Overview Findings</h4> 
 
 There has been a gradual increase in the complaint rate from 2017 to 2023, with a sharp rise **after 2021**, particularly during **July and August**, which consistently see the highest volume of complaints. Most complaints stem from issues with **savings accounts and credit-card** related problems. While the majority of complaints have been resolved promptly, with responses typically provided within 2-3 days, addressing consumer concerns during peak months remains a challenge.<br/>  
-Below is the overview page from my Excel report, which provides insights to support my findings and includes recommendations that highlight key opportunities for improvement.
+Below is the overview page from my Excel report, which provides insights to answer the set of questions on key areas which mentioned above and includes recommendations that highlight key opportunities for improvement.<br/>  
+**1. Complaint trend** 
+* The incoming complaints do not follow any clear seasonal patterns. Month-over-month, the rise or fall of complaints appears very random.
+* Since the last quarter of 2020, there has been a sudden rise in the number of complaints for most products, which continued until July 2023. After that, there was a sharp decline in complaints within just one month.
+* From **Q4 2018 to Q1 2019**, this was the only time when the rate of complaints significantly dropped compared to the rest of the months in the analyzed time period.
+
+ 
+
