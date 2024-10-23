@@ -75,7 +75,7 @@ Below is the overview page from my Excel report, which provides insights to answ
 * Complaints that are **still unresolved** are only found in the last year of this seven-year period (**2023**). Before that, all complaints have been closed.
 * In 2023, open complaints are concentrated in the last three months (**June, July, and August**), with the majority occurring between the week of **June 10th to August 7th**.<br/> 
   
-
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![complaint tracker N](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/complaint_tracker_N.png) 
 
 
 
