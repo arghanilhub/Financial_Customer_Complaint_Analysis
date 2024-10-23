@@ -32,3 +32,11 @@ The dataset contains 62,000 complaint records spanning from May 2017 to August 2
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![Complaint ERD](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/complaint_ERD.png) 
 
 I added **two** additional calculated columns: **Starting Week** and **Open/Close**, with data types *Date* and *Boolean*,' respectively. The 'Starting Week' column breaks down the complaint received dates by week, making it easier to track open and closed cases on a weekly basis. You can view the functions I used to create these columns in my newly prepared dataset, which is included in the final report file along with the raw data.   
+<br/> 
+
+<h3>Executive Summery</h3> 
+<hr> 
+<h4>Overview Findings</h4> 
+
+There has been a gradual increase in the complaint rate from 2017 to 2023, with a sharp rise **after 2021**, particularly during **July and August**, which consistently see the highest volume of complaints. Most complaints stem from issues with **savings accounts and credit-card** related problems. While the majority of complaints have been resolved promptly, with responses typically provided within 2-3 days, addressing consumer concerns during peak months remains a challenge.<br/>  
+Below is the overview page from my Excel report, which provides insights to support my findings and includes recommendations that highlight key opportunities for improvement.
