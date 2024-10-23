@@ -46,6 +46,39 @@ Below is the overview page from my Excel report, which provides insights to answ
 * From **Q4 2018 to Q1 2019**, this was the only time when the rate of complaints significantly dropped compared to the rest of the months in the analyzed time period.<br/>
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![complant trend](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Complaint_trend.png) 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![complant trend](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Complaint_trend.png) <br/> 
+<br/> 
  
+**2. Product analysis** 
+* **Credit card and savings account**-related issues have *received the most complaints*, and these have increased over the last 3 years.
+* Credit cards received the most complaints in **Q1 and Q4 (i.e., during tax and holiday periods)**.
+* **Mortgage and student loans** are the only two products showing completely **opposite trends** from the rest, as their complaint rates have decreased over the years.
+* *Common issues*- For savings accounts, people are mostly facing issues with **managing their accounts**, particularly with **deposits, withdrawals, and using their debit/ATM cards**.
+* For credit cards, customers are mainly facing two issues :                                                                                 
+     1.  Their **statements** show purchases they did not make, and the credit card company is not resolving these issues.
+     2.  Customers are receiving new credit cards due to **identity theft** or fraud.
+* The company *resolved* most of these complaints either through **explanations** or by providing **monetary relief**.
+<br/> 
+   
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![product](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Product.png) <br/> 
+<br/> 
+**3. Company responce** 
+* For **fraud issues**, the company is providing more *non-monetary relief*, particularly in cases of credit card identity theft.
+* The company's *public response* regarding these top two products is mostly private to the consumer and the CFPB, and it has not been disclosed to the public.
+* For almost all issues, the companies' timely response percentage is significantly higher than the untimely responses. However, if there is an **untimely response** regarding particular issues that may raise concerns for customers—such as when people are unable to use their debit cards or when there are unknown purchases listed on their credit card statements—the bank often resolves these complaints with **monetary relief, especially since 2022**.
+* There has been a noticeable **trend in untimely responses** for the most common issues between 2017 and 2023. From 2017 to 2020, untimely responses were very low, but they spiked sharply in 2021. Since then, they have gradually decreased throughout 2022 and 2023.
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![untimely responce](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/Untimely_responce.png) 
+
+
+
+
+
+
+
+
+
+
+
 
