@@ -81,7 +81,7 @@ Below is the overview page from my Excel report, which provides insights to answ
 
 <h4>Recommendations</h4> 
 
- **1.** To counter the surge of incoming complaints, we should *analyze the strategies* implemented during the periods of **Q4 2018 – Q1 2019** and &nbsp; &nbsp; &nbsp; &nbsp; **August 2023**, when a noticeable decrease in complaint rates occurred. These effective methods can be applied to other months experiencing  &nbsp; &nbsp; higher complaint levels.<br/> 
+* To counter the surge of incoming complaints, we should *analyze the strategies* implemented during the periods of **Q4 2018 – Q1 2019** and &nbsp; &nbsp; &nbsp; &nbsp; **August 2023**, when a noticeable decrease in complaint rates occurred. These effective methods can be applied to other months experiencing  &nbsp; &nbsp; higher complaint levels.<br/> 
    
  **2.** For *Savings account* problems: We need to further investigate the specific withdrawal or ATM issues customers are facing. 
                                   However, there are some immediate steps we can take to address these problems, such as:<br/> 
