@@ -86,7 +86,7 @@ Below is the overview page from my Excel report, which provides insights to answ
  **2.** For *Savings account* problems: We need to further investigate the specific withdrawal or ATM issues customers are facing. 
                                   However, there are some immediate steps we can take to address these problems, such as:<br/> 
                                    &nbsp; &nbsp; i) Implementing a 24/7 **dedicated customer support** hotline or in-app services for ATM card issues.<br/> 
-                                  &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and withdrawal queries, along with financial literacy resources.  
+                                  &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and &nbsp; &nbsp; withdrawal queries, along with financial literacy resources.  
 
 
 
