@@ -90,7 +90,7 @@ Below is the overview page from my Excel report, which provides insights to answ
                                   &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and  withdrawal queries, along with financial literacy resources.<br/>   
 <br/> 
 
-* For *credit issues* - we can **enhance fraud detection systems** to identify and block unauthorized transactions in real time, combined with **stronger identity verification** (like two-factor authentication or biometrics) to prevent identity theft. Additionally, establishing a **Rapid Response Team** for quick handling of disputed cases can ensure faster resolution and improve customer confidence.<br/>  
+* For *credit-card issues* - we can **enhance fraud detection systems** to identify and block unauthorized transactions in real time, combined with **stronger identity verification** (like two-factor authentication or biometrics) to prevent identity theft. Additionally, establishing a **Rapid Response Team** for quick handling of disputed cases can ensure faster resolution and improve customer confidence.<br/>  
 <br/> 
 
 * Moreover, I believe that implementing **comprehensive financial literacy campaigns** through **digital hubs**—offering resources such as short tutorials and explainer videos—can empower customers to effectively manage their savings accounts, use ATMs safely, and recognize phishing attempts. This proactive approach not only enhances their understanding but also *fosters long-term habits* that help prevent fraud and protect their card information.
