@@ -41,7 +41,7 @@ I added **two** additional calculated columns: **Starting Week** and **Open/Clos
 There has been a gradual increase in the complaint rate from 2017 to 2023, with a sharp rise **after 2021**, particularly during **July and August**, which consistently see the highest volume of complaints. Most complaints stem from issues with **savings accounts and credit-card** related problems. While the majority of complaints have been resolved promptly, with responses typically provided within 2-3 days, addressing consumer concerns during peak months remains a challenge.<br/>  
 Below is the overview page from my Excel report, which provides insights to answer the set of questions on key areas which mentioned above and includes recommendations that highlight key opportunities for improvement.<br/>  
 **1. Complaint trend** 
-* The incoming complaints do not follow any clear seasonal patterns. Month-over-month, the rise or fall of complaints appears very random.
+* The incoming complaints do not follow any strict seasonal patterns. Month-over-month, the rise or fall of complaints appears very random.
 * Since the last quarter of 2020, there has been a sudden rise in the number of complaints for most products, which continued until July 2023. After that, there was a sharp decline in complaints within just one month.
 * From **Q4 2018 to Q1 2019**, this was the only time when the rate of complaints significantly dropped compared to the rest of the months in the analyzed time period.<br/>
 
@@ -73,10 +73,20 @@ Below is the overview page from my Excel report, which provides insights to answ
 <br/> 
 **4. Complaint tracker** 
 * Complaints that are **still unresolved** are only found in the last year of this seven-year period (**2023**). Before that, all complaints have been closed.
-* In 2023, open complaints are concentrated in the last three months (**June, July, and August**), with the majority occurring between the week of **June 10th to August 7th**.<br/> 
+* In 2023, open complaints are concentrated in the last three months (**June, July, and August**), with the majority occurring between the **week** of **June 10th to August 7th**.<br/> 
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![complaint tracker N](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/complaint_tracker_N.png) 
+<br/> 
 
+
+<h4>Recommendations</h4> 
+
+ **1.** To counter the surge of incoming complaints, we should *analyze the strategies* implemented during the periods of **Q4 2018 – Q1 2019** and &nbsp; &nbsp; &nbsp; &nbsp; **August 2023**, when a noticeable decrease in complaint rates occurred. These effective methods can be applied to other months experiencing  &nbsp; &nbsp; higher complaint levels.<br/> 
+   
+ **2.** For *Savings account* problems: We need to further investigate the specific withdrawal or ATM issues customers are facing. 
+                                  However, there are &nbsp; &nbsp; some immediate steps we can take to address these problems, such as:<br/> 
+                                   &nbsp; &nbsp; i) Implementing a 24/7 **dedicated customer support** hotline or in-app services for ATM card issues.<br/> 
+                                  &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and withdrawal queries, along &nbsp; &nbsp; &nbsp; &nbsp; with financial literacy resources.  
 
 
 
