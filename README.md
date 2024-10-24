@@ -77,19 +77,20 @@ Below is the overview page from my Excel report, which provides insights to answ
   
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![complaint tracker N](https://github.com/arghanilhub/Customer_Complaint_Analysis/blob/main/complaint_tracker_N.png) 
 <br/> 
-
+<br/> 
 
 <h4>Recommendations</h4> 
 
 * To counter the surge of incoming complaints, we should *analyze the strategies* implemented during the periods of **Q4 2018 – Q1 2019** and **August 2023**, when a noticeable decrease in complaint rates occurred. These effective methods can be applied to other months experiencing higher complaint levels.<br/> 
+
    
  * For *Savings account* problems: We need to further investigate the specific withdrawal or ATM issues customers are facing. 
                                   However, there are some immediate steps we can take to address these problems, such as:<br/> 
                                    &nbsp; &nbsp; i) Implementing a 24/7 **dedicated customer support** hotline or in-app services for ATM card issues.<br/> 
-                                  &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and  withdrawal queries, along with financial literacy resources.  
+                                  &nbsp; &nbsp; ii) Offering **self-service resolution** options and **real-time tracking** through mobile banking apps for deposit and  withdrawal queries, along with financial literacy resources.<br/>   
 
 
-
+* For *credit issues* - we can **enhance fraud detection systems** to identify and block unauthorized transactions in real time, combined with **stronger identity verification** (like two-factor authentication or biometrics) to prevent identity theft. Additionally, establishing a **Rapid Response Team** for quick handling of disputed cases can ensure faster resolution and improve customer confidence. 
 
 
 
